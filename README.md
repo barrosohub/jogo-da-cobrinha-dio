@@ -1,1 +1,1 @@
-# Jogo da Cobrinha (Digital Inovation One)
+# Jogo da Cobrinha
